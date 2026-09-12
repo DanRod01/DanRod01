@@ -21,5 +21,5 @@ Desenvolvedor Full Stack focado na construção de aplicações web modernas, es
 
 ### 📬 Onde me encontrar
 
-- LinkedIn: Daniel Rodrigues(https://www.linkedin.com/in/daniel-rodrigues-941635215/)
+- LinkedIn:[Daniel Rodrigues](https://www.linkedin.com/in/daniel-rodrigues-941635215/)
 - Email: daniel.rodrigues1014@gmail.com
